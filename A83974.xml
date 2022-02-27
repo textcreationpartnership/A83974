@@ -1,0 +1,407 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Englands monument of mercies in her miraculous preservations from manifold plots, conspiracies, contrivances and attempts of forraigne and home-bred treacherous enemies, against the Parliament, kingdome, and purity of religion: discovering the time, persons and places of these attempts; with all their most remarkable proceedings. Published purposely to raise up the hearts of all the faithfull in the kingdome, unto a continued thankfulnesse unto God.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83974</idno>
+            <idno type="STC">Wing E2998</idno>
+            <idno type="STC">Thomason 669.f.10[85]</idno>
+            <idno type="STC">ESTC R210633</idno>
+            <idno type="EEBO-CITATION">99869413</idno>
+            <idno type="PROQUEST">99869413</idno>
+            <idno type="VID">121789</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83974)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 121789)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 246:669f10[85])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Englands monument of mercies in her miraculous preservations from manifold plots, conspiracies, contrivances and attempts of forraigne and home-bred treacherous enemies, against the Parliament, kingdome, and purity of religion: discovering the time, persons and places of these attempts; with all their most remarkable proceedings. Published purposely to raise up the hearts of all the faithfull in the kingdome, unto a continued thankfulnesse unto God.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (ports.)  </extent>
+               <publicationStmt>
+                  <publisher>Printed for S.W. and I.P. and are to be sold at their shops in great Woodstreet, and in thegreat [sic] Old-Baily, neere the Sessions-House,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Features engraved portraits of: William Laud, Archbishop of Canterbury; the Deputy of Ireland; Sir Basil Brook; Lord Digbie; Lady Aubignye; Prince Rupert; the Earl of Newcastle; Lord Jarmin; and the Earl of Montrose.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Septemb: 21th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Conspiracies --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:121789:1" rendition="simple:additions"/>
+            <pb facs="tcp:121789:2"/>
+            <head>ENGLANDS MONUMENT OF MERCIES, IN HER MIRACVLOVS PRESERVATIONS FROM Manifold Plots, Conſpiracies, Contrivances and attempts of forraigne and home-bred treacherous Enemies, againſt the Parliament, Kingdome, and purity of Religion: Diſcovering the Time, Perſons and places of theſe attempts; with all their moſt remarkable proceedings. Publiſhed purpoſely to raiſe up the hearts of all the faithfull in the Kingdome, unto a continued Thankfulneſſe unto GOD.</head>
+            <p>
+               <figure>
+                  <figDesc>depiction of various enemies of the Crown</figDesc>
+                  <figure>
+                     <head>W: Laud A.B. of Canterbury</head>
+                     <figDesc>depiction of William Laud, Archbishop of Canterbury (1573-1645)</figDesc>
+                  </figure>
+                  <figure>
+                     <head>Debuty of Ireland</head>
+                     <figDesc>depiction of the Lord Deputy of Ireland</figDesc>
+                  </figure>
+                  <figure>
+                     <head>Prince Rupert</head>
+                     <figDesc>depiction of Prince Rupert</figDesc>
+                  </figure>
+                  <figure>
+                     <head>Earle of Newcastle</head>
+                     <figDesc>depiction of the Earl of Newcastle</figDesc>
+                  </figure>
+                  <figure>
+                     <head>S<hi rend="sup">r</hi>. Bazill Brooke</head>
+                     <figDesc>depiction of Sir Basil Brooke of Madeley(1576-1646)</figDesc>
+                  </figure>
+                  <figure>
+                     <head>Lord Digbie</head>
+                     <figDesc>depiction of Lord Digby</figDesc>
+                  </figure>
+                  <figure>
+                     <head>Lady Aubignye</head>
+                     <figDesc>depiction of Katherine Stuart, Lady Aubigny (1618-50)</figDesc>
+                  </figure>
+                  <figure>
+                     <head>Lord Iarmin</head>
+                     <figDesc>depiction of Lord Jermyn</figDesc>
+                  </figure>
+                  <figure>
+                     <head>Earle of Montroſs</head>
+                     <figDesc>depiction of the Earl of Montrose</figDesc>
+                  </figure>
+               </figure>
+            </p>
+            <div n="1641" type="year">
+               <head>Anno 1641.</head>
+               <p n="1">1 <seg rend="decorInit">A</seg> Great plot to bring the Engliſh Army in the North againſt the Par<g ref="char:EOLhyphen"/>liament, and to advance this deſigne, the Deputy of Ireland attempted his eſcape out of the Tower, promiſing Sir <hi>William Balfoure</hi> 20000. l. and to marrie his ſon to his daughter: but Sir <hi>Williams</hi> loyalty appeared above trecherie. The chief Actors in this deſigne were Sir <hi>John Suck<g ref="char:EOLhyphen"/>ling,</hi> Captain <hi>Chidley,</hi> and Col. <hi>Goring,</hi> who ſhould be Lievtenant-Generall, (in<g ref="char:EOLhyphen"/>deavouring to get Portſmouth into their hands) and the Earl of <hi>Newcaſtle</hi> ſhould have met them with 1000. horſe; and to further this deſigne, the Biſhops profered to maintain 1000. horſe.</p>
+               <p n="2">2 Another wicked deſigne was to make the Scots Army n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>w<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, by many wicked ſuggeſtions: but this deſigne prevailed not.</p>
+               <p n="3">3 The breaking forth of the rebellion in Ireland, which had beene all loſt in a mo<g ref="char:EOLhyphen"/>ment, had not the Lo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d miraculouſly deli<g ref="char:EOLhyphen"/>vered Dublin but the evening before, by a Meſſengers eſcape, who was rewarded by the Pa<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>liament. And here note, that after this Rebellion had beene broke forth foure moneths, to the loſſe of many thouſand Proteſtants lives, yet but 14 Proclamati<g ref="char:EOLhyphen"/>ons muſt be printed to proclaime them Re<g ref="char:EOLhyphen"/>bells, with S cretary <hi>Nicholas</hi> his hand for the Printers diſcharge.</p>
+               <p n="4">4 The L. <hi>Cottingtons</hi> being made high Conſtable of the Tower, who did not a little trouble the City, by planting Ord<g ref="char:EOLhyphen"/>nance againſt it, but by their care this was fruſtra<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</p>
+               <p n="5">5 <hi>Cottington</hi> being diſplaced by the importunity of the Parliament to His Ma<g ref="char:EOLhyphen"/>jeſty, (one as bad as he, a priſoner in New<g ref="char:EOLhyphen"/>gate not long before, fitter for Newgate then the Tower) Col. <hi>Lunsford,</hi> who with great difficul<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> by the City &amp; Parliament, importuning His Majeſty, was at laſt diſ<g ref="char:EOLhyphen"/>placed likewi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e.</p>
+               <p n="6">6 Sir <hi>Iohn Byron</hi> was put in by His Ma<g ref="char:EOLhyphen"/>jeſty, who was ſomthing better then the former, yet this cruſed ſuſpition in the per<g ref="char:EOLhyphen"/>ſon, and therefore the City petitioned, that he might be removed alſo.</p>
+               <p n="7">7 In November a divelliſh plot to have murdered many of the Nobility, with the Members of the Houſe of Commons, and ſome Members of the upper Houſe; many of the Papiſts conſpired to ſet upon ſome of the ſtrong holds in Cheſhire, Lancaſhire and the parts adjacent, the plot being ſo contrived, that at the ſame time the City of London ſhould have been ſurprized, and all the Proteſtants throats cut: the maine plotter of this deſigne was the Earle of <hi>Worceſter,</hi> who was to ſupply them with Forces, and two Jeſuites, Father <hi>Andrews</hi> and Father <hi>Iones,</hi> who were apprehended according to an Order of Parliament, that all thoſe that ſhould diſcover any Popiſh Prieſts or Jeſuites, and cauſe them to be apprehended, ſhould be rewarded by the Parliament. Subſcribed,</p>
+               <p>
+                  <hi>Novemb.</hi> 15 <hi>Io. Brown Cler. Parliament.</hi>
+               </p>
+               <p n="8">8 The Popiſh Lords and Prelates fitting in Parliament interrupting Parliamentary proceedings, being petitioned againſt, the Petitioners were affronted by Col. <hi>Lunſ<g ref="char:EOLhyphen"/>ford</hi> in Weſtminſter Hall, being aſſiſted by Ruffianl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Courtiers from White-Hall.</p>
+               <p n="9">9 The Biſhops petition the King to proteſt againſt the Parliaments proceed<g ref="char:EOLhyphen"/>ings, but the Parliament voted 12 Biſhops guilty of high Treaſon, for endeavouring to ſubvert the fundamentall Lawes of the Kingdome, ten of which wer committed.</p>
+               <p n="10">10 The taxing and demanding of the five Members by the King, coming in an hoſtile way to the Parliament, and accuſing them of high treaſon. J<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n. 4.</p>
+               <p n="11">11 The Malignants petition againſt the <hi>Militia</hi> of London, <hi>Binion</hi> a Silkman being the chief, but another Petition being fra<g ref="char:EOLhyphen"/>med againſt the former, the former was cenſured to be burnt by the common hang<g ref="char:EOLhyphen"/>man, <hi>Binion</hi> fined 3000 l. and two yeares impriſonment for his inſolency.</p>
+               <p n="12">12 Malignant ſpirits diſcover them<g ref="char:EOLhyphen"/>ſelves in a Kentiſh Petition framed by Sir <hi>Edward Deering,</hi> who for publiſhing that and other things, was caſt out of the Houſe, impriſoned in the Tower, his booke burnt, and the Petitioners returned with much diſgrace.</p>
+               <p n="13">13 The King and Prince depart from London, attended by divers Cavaliers to York, who in a hoſtile way go to demand Hull, which cauſed the Parliament to put the <hi>Militia</hi> in execution in moſt parts of the Kingdome.</p>
+            </div>
+            <div n="1642" type="year">
+               <head>Anno 1642.</head>
+               <p n="14">14 A trecherous conſpiracie of the Archbiſhop of Yorke againſt the Parlia<g ref="char:EOLhyphen"/>ment, in providing 150 armes, with many piſtolls, muskets and ammunition for mili<g ref="char:EOLhyphen"/>tary affaires, intending to riaſe a party, but his deſigne was fruſtrate.</p>
+               <p n="15">15 A dangerous plot againſt the City of York, whereby it ſhould have been be<g ref="char:EOLhyphen"/>trayed, by cauſing of an inſurrection, to the amazement of the Governour; the rude Apprentices running in the ſtreets, and throwing up their hats, crying, <hi>For the King, for the King;</hi> and then in the mid<g ref="char:EOLhyphen"/>deſt of the night following, the Watch hearing a cry, <hi>Horſe, Horſe, Armes, Armes.</hi>
+               </p>
+               <p n="16">16 A plot againſt Sir <hi>Iohn Hotham</hi> (in the time of his fidelity) and the inhabitants of Hull, the deſigne being to fire the houſes next the Fort, and thereby overcome the town, which they did performe, but were prevented.</p>
+               <p n="17">17 The Cavaliers plots againſt the Par<g ref="char:EOLhyphen"/>liament, and ſharing out the city in ſeverall pro<g ref="char:EOLhyphen"/>portions beforehand, which confirmed the relation from Roterdam, which was to this effect: that divers gentlemen and others in Roterdam reſol<g ref="char:EOLhyphen"/>ved to come for England, whereupon two ſhips were provided with guns of 12 foot long, which ſhot bullets of 44. pound waight, the furthering of this deſigne was the pawning the Jewels, in which M. <hi>Webſter</hi> a Merchant in Amſterdam was a great aſſiſtant. P. <hi>Rupert</hi> proved a buyer to carie horſe for England and <hi>Iacob Lightfoot</hi> a Mer<g ref="char:EOLhyphen"/>chant brought 15000 waight of powder for England; and for their encouragement <hi>Iermyn</hi> ſent to Roterdam 40000. gilders to be delivered to P. <hi>Rupert,</hi> P. <hi>Maurice,</hi> L. <hi>Devinant,</hi> L. <hi>Digby, Oneale, Hide,</hi> and divers others.</p>
+               <p n="18">18 Sir <hi>Richard Gurney</hi> L. Mayor of London proclaiming the Commiſſion of Array in affront to the Parliament, is impriſoned for the ſame.</p>
+               <p n="19">19 A bloudy plot attempted againſt Sir <hi>Tho<g ref="char:EOLhyphen"/>mas Fairfax</hi> Sir <hi>W. Brereton,</hi> Sir <hi>Tho. Middleton</hi> Sir <hi>William Fairfax,</hi> Col. <hi>Aſhton,</hi> Col. <hi>Mitton,</hi> Col. <hi>Moore,</hi> and divers more Officers in the Par<g ref="char:EOLhyphen"/>liaments Army in falſe accuſations laid againſt them before the Judges at the Aſſizes at Cheſter, where they were arraigned of high treaſon for ta<g ref="char:EOLhyphen"/>king up armes for the Parliament, the Kings At<g ref="char:EOLhyphen"/>turney was proſecutor, and the Jury making oath againſt them in Court, but God delivered them out of their hands, and ſome of them lie in hold for the ſame fact.</p>
+               <p n="20">20 The Catholike cauſe is advanced, and many Papiſts that would take the Oath of Allegiance and Supremacie, are the greateſt in the Kings fa<g ref="char:EOLhyphen"/>vour, and have power from him to exerciſe their Religion.</p>
+               <p n="21">21 The fifting of the Scots, what they would do for the Catholike cauſe, to further which de<g ref="char:EOLhyphen"/>ſigne a Letter was f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>amed from the King to the privy Councel of Scotland, who returned anſwer, they deſired the King to return to his Parliament, and they would do their utmoſt indeavour for the good of this Kingdome.</p>
+               <p n="22">22 Another deſigne by caſting aſperſions on the Parliament, concerning vaſt ſums of money to be pu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loyned from the publike, and beſtowed on private perſons, as 10000 l. to the E. of <hi>Hol<g ref="char:EOLhyphen"/>land,</hi> 6000 to M. <hi>Pym,</hi> and other perſons in places of publike truſt.</p>
+               <p n="23">23 The E. of <hi>Northumberland</hi> (being Admi<g ref="char:EOLhyphen"/>rall of the Seas) is diſp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ced by the King, and Sir <hi>Iohn Penington</hi> plac<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d in his roome, upon this the Parliament made the E. of <hi>Warwick</hi> Admirall, but the King demanded of his Honour to deliver up his place to Sir <hi>Io. Penington</hi> on pain of high treaſon, but this honourable Patriot with the ad<g ref="char:EOLhyphen"/>vice of Parliament faithfully proſecutes his duty.</p>
+               <p n="24">24 Divers Letters intercepted by the Earle of <hi>Warwicke,</hi> one to Capt. <hi>Slingsby</hi> deſiring him (ra<g ref="char:EOLhyphen"/>ther then to diſcover the deſigne) to die a Martyr in His Majeſties cauſe.</p>
+               <p n="25">25 Beck with a P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>piſt, with his confederates, would have fired Holl in foure places, and then the Kings Forces were to aſſault the town, the ſigns to bee given to thoſe that would have fi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed the town was when they ſaw fire on Beverl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Min<g ref="char:EOLhyphen"/>ſter, but this was timely diſcovered by an Officer of the town, who was ſollicited by <hi>Beckwith</hi> for to act the ſame.</p>
+               <p n="26">26 Neutrality plotted in Yorkſhire, to ſtand neither for King nor Parliament, whereby many honourable perſons had ben betraid, had not the Parliament declared againſt them.</p>
+               <p n="27">27 A ſhip laden with ammunition (ſent by the Q een) was taken at Yarmouth by Captaine <hi>Iohnſon,</hi> with 400 barrells of powder, 10 piece of Ordnance, 50 Commanders, many ſouldiers with Letters, one eſpecially from the Queen concerning the deſigne.</p>
+               <p n="28">28 In the middeſt of October a plot was in<g ref="char:EOLhyphen"/>vented to blow up the L. Generals Magazine by a Scotch man, one <hi>David Alexander,</hi> under Sir <hi>Iohn Meldrum,</hi> he confeſt he was to have 500 l. that Sir <hi>Iohn Culpepper</hi> had given him 10 l. and the reſt he was to have from a great perſon, whom he refuſed to name.</p>
+               <p n="29">29 This was that <hi>Alexander</hi> who was for<g ref="char:EOLhyphen"/>merly ſet on by Sir <hi>Iohn Hinderſon</hi> to kill Sir <hi>Iohn Hinderſon</hi> (for a ſum of money) to kill Sir <hi>Iohn Hotham, Alexander</hi> ſaid, it was the work of a butcher, and not of a ſouldier.</p>
+               <p n="30">30 The deſigne of Sir <hi>Faithleſſe Forteſcues</hi> re<g ref="char:EOLhyphen"/>volt at Edge-hil, who ran away to the King with his whole troupe, and immediately charged on the Parliaments Forces.</p>
+               <p n="31">31 A baſe plot acted at Brainford under a pre<g ref="char:EOLhyphen"/>tence of a Treaty for peace, Prince Rebell, think<g ref="char:EOLhyphen"/>ing to archieve his deſigne (our Forces being un<g ref="char:EOLhyphen"/>provided) to march to London; but let the re<g ref="char:EOLhyphen"/>ward of trechery, and the valour of London Ap<g ref="char:EOLhyphen"/>prentices never be forgotten.</p>
+               <p n="32">32 A plot contrived by the Kings party, for electing of new high Sheriffs, the moſt of them being either Papiſts or Commiſſioners of Array, or Deliquents, but the Parliament declared by the Lawes of the Kingdome, that they were not law<g ref="char:EOLhyphen"/>fully deputed to their places, and by vote diſabled them.</p>
+               <p n="33">33 A deſigne at Oxford to proceed againſt the Parliaments Officers and Souldiers as Traytors, uſing them worſe then the Turks would have done, whereupon the Parliament declared the ſame Lawes here againſt them, which by Gods mercy prevented the ſame.</p>
+               <p n="34">34 Sir <hi>W. Waller</hi> having entred Chicheſter, a train of powder was laid from his lodging to part of the magazine, but by diligent ſearch prevented.</p>
+            </div>
+            <div n="1643" type="year">
+               <head>Anno 1643.</head>
+               <p n="35">35 A deſigne againſt the City of London, by ſome malignants in and about the ſame, preferring a Petition to His Majeſty at Oxford from two Aldermen and 4 Commoners, to returne to the City, in reply to which the King ſent his meſſen<g ref="char:EOLhyphen"/>ger Capt. <hi>Herne,</hi> and a ſpeciall Common-hall was called, <hi>Herne</hi> read his meſſage, and but one man appeared of the Malignant party, the reſt crying out, they would live &amp; die with the Parliament.</p>
+               <p n="36">36 A Letter (by the procurement of the City malignants) dated Jan. 17. to the Citizens of London, ordered that all ſorts ſhould heare it at ſeverall Halls, but the Letter being found of dan<g ref="char:EOLhyphen"/>gerous conſequence, was not ſuffered to be read.</p>
+               <p n="37">37 A conſpiracie to betray Briſtol to P. <hi>Rupert</hi> the manner thus: <hi>Rupert</hi> with 4000 horſe and 2000 foot were to be ready on Durdan Downes, directed by <hi>Robert Yeoman, Iohn Butcher,</hi> and their aſſiſtants, <hi>Butcher</hi> ordered a company of rude fellowes to be about the gates to let in the enemy, and to give notice by the tolling of a bell, when they were ready; the conſpirators &amp; their abettors were diſtinguiſhed from the reſt by a white riban in their hats, uſing the word <hi>Charles,</hi> but this being diſcovered not above two houres before the time of action by a poore boy, <hi>Ruperts</hi> deſigne was fruſtrate.</p>
+               <p n="38">38 A villan of the Lord <hi>Roberts</hi> his Regiment who fled to the enemy was hired to blow up the L. Generals magazine, and confeſt that he was to have 5. l. for doing it, but was only hanged for it.</p>
+               <p n="39">39 London aſſayed to be betrayed, by petition<g ref="char:EOLhyphen"/>ing for peace, to ſurprize the City and to let in the Kings Army, 4000 were to be within 15 miles the ſame night the plot was to bee acted. The a<g ref="char:EOLhyphen"/>ctors were ſome members of both Houſes, others of the Court and City, <hi>Criſpe, Royden, Brown</hi> and <hi>Binion,</hi> were to hold correſpondency with both Armies, the Commiſſion of Array was to be put in execution, and 17 Citizens to be of a Councell of war to execute martiall law, <hi>Royden</hi> and <hi>Chal<g ref="char:EOLhyphen"/>lenor</hi> to be the chief, <hi>Waller</hi> and <hi>Tomkins</hi> were great actors, their deſigne was to ſeize upon the magazine, they wearing white ribans, their meet<g ref="char:EOLhyphen"/>ing place was to be at Black-heath, the parties to be ſeized on were the L. <hi>Say,</hi> L. <hi>Wharton, M. Pym, M. Strode,</hi> the L. Mayor, the Committee for the <hi>Militia,</hi> and divers others ſpecified in their Com<g ref="char:EOLhyphen"/>miſſion. M. <hi>Hern,</hi> M. <hi>Hamden,</hi> and the Lady <hi>Au<g ref="char:EOLhyphen"/>be<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y</hi> brought the Commiſſion. This plot was (by Gods providence) brought to light, and the two chiefeſt Actors <hi>Tomkins</hi> and <hi>Challenor</hi> were exe<g ref="char:EOLhyphen"/>cuted.</p>
+               <p n="40">40 Hull indeavoured to be betraid by Sir <hi>Iohn Hotham,</hi> Capt. <hi>Hotham,</hi> and Sir <hi>Edward Roads,</hi> this was diſcovered by M. <hi>Ripley,</hi> who ſurprized the Block-houſes, caſtle, and all the Commanders, the maine Guard, and all the Ordnance, and ſent preſently to apprehend Sir <hi>Iohn,</hi> who eſcaped out of the town, but was purſued and apprehended; Sir <hi>Edward Roads</hi> and Cap. <hi>Hotham</hi> were alſo ta<g ref="char:EOLhyphen"/>ken, and Sir <hi>Iohn</hi> and his ſon executed.</p>
+               <p n="41">41 A plot to betray Lincoln by two Captains belonging to Hull, who attempted to let in Forces for the Qoeen, who let in about 60. but the City being informed of the plot, ſeized on theſe two Commanders, and at 12 a clock at night thought to ſeize on the magazine, they were diſcovered by a Canoneer, who diſcharged at them, the towne roſe and put them all to the ſword, except the two Commanders, Cap. <hi>Aliſon,</hi> Capt. <hi>VVilliam<g ref="char:EOLhyphen"/>ſon,</hi> and ſome other of quality.</p>
+               <p n="42">42 The rewd women about London petition for a peace, who came in an abuſive way to the Houſe of Parliament, affronting them with ill language ſwearing that they would have a peace, there was amongſt them 500. whores as is con<g ref="char:EOLhyphen"/>ceived, but ſome of the women came ſhort home, and ſome diſ figured, one of them without a noſe.</p>
+               <p n="43">43 The Queens deſigne to perſwade the King to come for London, but was fruſtrate. He takes his way for Gloceſter, but they being all true, it was no gaine for them to go thither.</p>
+               <p n="44">44 Kentiſh malignants oppoſe the proceed<g ref="char:EOLhyphen"/>ings of Parliament, 2000 and more of them gathe<g ref="char:EOLhyphen"/>red together being led by Sir <hi>Edward Bathurſt,</hi> capt. <hi>Stansby,</hi> and M. <hi>Leigh,</hi> 200 of them attemp<g ref="char:EOLhyphen"/>ted to ſeize on Dartford magazine, but a troupe of horſe prevented that deſigne, and by Col. <hi>Browne</hi> they were quelled at Tunbridge, where many of them were ſlain and taken priſoners. Sir <hi>Michael Liveſay</hi> oppoſeth the rebells at Yawlding, enters the town, and takes a conſiderable prize.</p>
+               <p n="45">45 Canterbury and Feve<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſham malignants be<g ref="char:EOLhyphen"/>gin to fortifie themſelves, but the well-<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cted of Canterbury raiſed 3 or 400 Dragoons and appea<g ref="char:EOLhyphen"/>ſed them. Sir <hi>Edward Hal<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> and his grand-ſoun<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> were chiefe ſticklers in this deſigne. The chiefe ringleaders of this commotion were impriſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ned in the Tower and other priſons.</p>
+               <p n="46">46 Oxfordian Achitophels plot to preven<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> traiding and commerce with, and to hinder vitals from London, thinking to ſtarve it, but the Coun<g ref="char:EOLhyphen"/>trey know that Londons pay was better then Oxfords plots, and chooſe rather to imbrace the pay, then ro reſerve it for an Oxford priſe.</p>
+               <p n="47">47 A plot hatcht at Oxford intended to have it perfected at London, is petitioned againſt, that the Lords would not give eare to anie ſuch pre<g ref="char:EOLhyphen"/>tended peace.</p>
+               <p n="48">48 Sir <hi>Alexander Caries</hi> endeavouring to be<g ref="char:EOLhyphen"/>tray Plymouth, diſcovered, and he executed.</p>
+               <p n="49">49 Four Proclamations ſent to the Lord May<g ref="char:EOLhyphen"/>or of London the firſt to alter the monethly Faſt, the ſecond to make all Iriſh money current in England, the third to command all Counties to accept of thoſe high-Sheriffs that were choſen at Oxford, the fourth to diſanull the taking of the ſolemne Oath and Covenant, the Lord Mayor ſent the Meſſenger to the Parliament, who gave him his juſt reward.</p>
+               <p n="50">50 A deſigne againſt the Citie, the Kings en<g ref="char:EOLhyphen"/>deavour to break into the Aſſ<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ciation, to attain this Sir <hi>Ralph Hopton</hi> is deſired to advance to Wincheſter and Chicheſter, and ſo forward to Kent: but this deſign was fruſtrate alſo.</p>
+               <p n="51">51 Malignants next plot was for Scotland, the Queen Regent of France ſent into Scotland to perſwade the Scots from coming into England, but they vowed they would maintain the true re<g ref="char:EOLhyphen"/>ligion and the Power of Parliament to the loſſe of their lives.</p>
+               <p n="52">52 The King ſends two Letters into Scotland to prevent their coming, the firſt was againſt the Scots Proclamation for all to be in readineſſe, the ſecond was againſt the Covenant, deſiring them not to aid the Parliament of England, which he ſaid were in Rebellion againſt him.</p>
+               <p n="53">53 The King ſends into Ireland for thoſe to come to aid him, who came and landed at Briſtol, the King pretending they fought for him and the Parliament, and would have forced an oath on them, they ſeeing the contrarie, refuſed and came to Colonell <hi>Maſſey.</hi>
+               </p>
+               <p n="54">54 A Declaration printed at Oxford for the Iriſh Ceſſation for a year, to further this deſigne in England, which hath been acted in Ireland.</p>
+               <p n="55">55 Gl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſter aſſaved by plots by popiſh Win<g ref="char:EOLunhyphen"/>ter who ſhould have ſurprized the town of Glo<g ref="char:EOLhyphen"/>ceſter, by the helpe of the trayterous partie in the town, which the watchfull Governour hearing, prevented it.</p>
+               <p n="56">56 A plot to convey away the Kings children, but Letters being intercepted they were ſecured and the ſervants about them removed.</p>
+               <p n="57">57 A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>other pl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t to betray N<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ttingham-Ca<g ref="char:EOLhyphen"/>ſtle, and many circumſtances uſed to corrupt Co<g ref="char:EOLunhyphen"/>lonell <hi>Hutchiſon,</hi> who was offered by Decres 10000. l. if hee would procure the ſame, but fideli<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ie ſcorned treachery.</p>
+               <p n="58">58 Prince <hi>Ruperts</hi> indeavour to betray Bri<g ref="char:EOLhyphen"/>ſtoll the ſecond time, but prevented.</p>
+               <p n="59">59 The Earl of <hi>Crafords</hi> proffers to Captaine <hi>Sidenham</hi> to betray Poole, but this brave Captain ſcorned his proffers.</p>
+               <p n="60">60 The Earl of <hi>Crafords</hi> plot to betray Aliſ<g ref="char:EOLhyphen"/>bury in bringing a written copie with large prof<g ref="char:EOLhyphen"/>fers ſigned wi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h <hi>C. R.</hi> but was denyed to his great ſhame.</p>
+               <p n="61">61 The Proteſtant R<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ligion, plotted againſt in moſt parts of Chriſtendome, Holland and Den<g ref="char:EOLhyphen"/>mark have raiſed contributions to maintaine that curſed crew againſt the Parliament.</p>
+               <p n="62">62 Another divilliſh deſign to divide the Par<g ref="char:EOLhyphen"/>liament and Cite by Col. <hi>Reed</hi> a Rebel of Ireland and Sir <hi>B<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>z<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll Brooke,</hi> and <hi>Vilet</hi> a Gold-ſmith and <hi>Ril<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> y</hi> a B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d-maker, Scout-Maſter-General, for the Citie of London, but the plott being diſ<g ref="char:EOLhyphen"/>cove<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>d, <hi>Reed</hi> writ a Letter with a Superſcription <hi>To the man in the moone,</hi> who came to Oxford and acqu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>inted the King with the deſigne, he de<g ref="char:EOLhyphen"/>ſiring to adviſe with him, with the aſſiſtance of the Q<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>een, Lord <hi>Digby,</hi> Dutcheſſe of Bucking<g ref="char:EOLhyphen"/>ham, wife to that rebellious E. of <hi>Antrim,</hi> with whom a way to ſend Propoſitions was conſide<g ref="char:EOLhyphen"/>red, a Letter is ſent with manie l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ving expreſſions to the Lord Mayor and Alderman, calling them his loving Subj<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cts; His Majeſtye ſent two Sig<g ref="char:EOLhyphen"/>nets as a New-years Guift to theſe Plotters, but Gods providence now appears by private intelli<g ref="char:EOLhyphen"/>gence, <hi>Rily</hi> is apprehended and examined, Sir <hi>Ba<g ref="char:EOLhyphen"/>z<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll Bro<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>k</hi> being ſent for confeſſed all ſudde<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, after <hi>Vilet</hi> was apprehended, who had the Kings Letter about him, are confeſſed all: theſe three were committed cloſe priſoners in the Tower, and <hi>Vilet</hi> was to be tried as a ſpy.</p>
+               <p n="63">63 A wicked plot endeavoured by the inſtiga<g ref="char:EOLhyphen"/>tion of the E. <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f <hi>Briſtoll,</hi> and Serjeant-Major <hi>O<g ref="char:EOLhyphen"/>gell,</hi> to betray the Citie of London, by cauſing a diviſion between the Presbyterians and Indepen<g ref="char:EOLhyphen"/>dents, M. <hi>Goodwin</hi> and M. <hi>Nye</hi> are tampered with to further their deſigne, who ſpeedily diſcovered the ſame to the Houſe, the manner as followeth. Propoſitions were drawne up that they would grant Toleration, and divers Letters ſent to thoſe Miniſters promiſing them preferment: but this plot failed alſo.</p>
+               <p n="64">64 Indeavors to betray Windſor Caſtle, bu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the Governour ſcorned the baſe treachery of ſuch curſed Courtiers.</p>
+               <p n="65">65 In Jan. another plot to betray Alis<g ref="char:EOLhyphen"/>bury by M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> 
+                  <hi>Ogl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>,</hi> he promiſing the Go<g ref="char:EOLhyphen"/>vernour 1000 l. for his reward, whereof the Governour received 100 l. preſent and a brave horſe and ſword, with a ſafe con<g ref="char:EOLhyphen"/>duct under the Kings owne hand; but the faithfull Governour diſcovered the ſame and he was rewarded according to his tre<g ref="char:EOLhyphen"/>chery.</p>
+               <p n="66">66 In Jan. Nottingham towne and ca<g ref="char:EOLhyphen"/>ſtle is once again indeavoured to be betray<g ref="char:EOLhyphen"/>ed, but the faithfull Governour Col. <hi>Hut<g ref="char:EOLhyphen"/>cheſon</hi> ſcorned their trecherous deſigne.</p>
+               <p n="67">67 In Jan. a trecherous deſigne to be<g ref="char:EOLhyphen"/>tray Southampton by the L. <hi>Hopton,</hi> and two Lords more, who offered 1000 l. and His Majeſties pardon under the great Seal, but the worthy Governour denied to con<g ref="char:EOLhyphen"/>deſcend to their baſe trecherous demand.</p>
+               <p n="68">68 In F<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>bruary, A ſad exploit per<g ref="char:EOLhyphen"/>formed by Biſhop <hi>Vſher,</hi> that in after ages may be a warning to ſuch unfaithfull Meſ<g ref="char:EOLhyphen"/>ſengers, who joyning all to take the per<g ref="char:EOLhyphen"/>nitious oath at Oxford, wiſhing that all thoſe that would not take it, might die in priſon; whereupon many were perſwa<g ref="char:EOLhyphen"/>ded to take it, ſome ſince being much per<g ref="char:EOLhyphen"/>plexed in minde concerning it, and ſome dying in that condition.</p>
+               <p n="69">69 In February, Another deſigne was to prevent the Scottiſh march, <hi>Rupert</hi> that Rebell to meet them with twelve ſhips of Iriſh Rebells, but was prevented by Captain <hi>Swanley.</hi>
+               </p>
+               <p n="70">70 In the ſame moneth a third deſigne againſt Nottingham caſtle; divers horſes la<g ref="char:EOLhyphen"/>den with ſacks, and about 30 Cavaliers in womens apparell, and others like poore countrey-men, as if they had been going to Nottingham market, but they being diſco<g ref="char:EOLhyphen"/>vered, were all taken priſone s, and more that were coming to aſſiſt them in that de<g ref="char:EOLhyphen"/>ſigne.</p>
+               <p n="71">71 In March, a Divelliſh plot to betray Weymouth and Melcombe <hi>Regis</hi> to Sir <hi>Lewis Dives,</hi> the manner thus; that the gates were to be ſet open to let in Sir <hi>Lew<g ref="char:EOLhyphen"/>is Div<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>,</hi> and the <gap reason="illegible" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> to ſur<g ref="char:EOLhyphen"/>prize the Forts, which was done, and the townſmen were to aſſiſt them, and th<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> they might the better bee knowne, <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> word was <hi>Crab Church,</hi> and the ſigne was a handkerchiefe about their armes, but the plot being diſcovered, and God giving courage to the Souldiers, they were beaten out, and the chief Conſpirators executed.</p>
+               <p n="72">72 Gloceſter is again attempted to be betraid by <hi>Edward Stanford</hi> a Papiſt, Eſ<g ref="char:EOLhyphen"/>quire, labouring with a Captain belonging to Col. <hi>Maſſey</hi> profering him 5000 <abbr>l.</abbr> and whereof he received 200 l. in hand, but he diſcovered the deſigne.</p>
+               <p n="73">73 A plot in Scotland by the Marqueſſe <hi>Huntley,</hi> L. <hi>Montroſſe,</hi> and the Earle of <hi>Craford,</hi> by a ſad inſurrection to force the Scots our of England: but the noble Earle of <hi>Argile</hi> and the Earl of <hi>Calendar</hi> went with a ſtrong party to repell them, &amp; took all their ordnance, arms, and ammunition.</p>
+               <p n="74">74 Sunderland delivered from a plot in<g ref="char:EOLhyphen"/>tended by the Mayor of Newcaſtle, but diſ<g ref="char:EOLhyphen"/>covered by the Seamen on the river, who planted two pieces of Ordnance, and be<g ref="char:EOLhyphen"/>took themſelves to their Armes, for which ſervice the Houſe ordered them 200. <abbr>l.</abbr>
+               </p>
+               <p n="75">75 A bloudy exploit in Cornwall in<g ref="char:EOLhyphen"/>tended againſt Major Gen. <hi>Skippon,</hi> to have put all to the ſword, and having taken 30. put 28 to the ſword, whereupon the Ma<g ref="char:EOLhyphen"/>jor declared hee would live and die with them before they ſhould ſuffer under ſuch bloudy rebells.</p>
+               <p n="76">76 Plots attempted againſt the towne and caſtle of Stafford, but prevented by Sir <hi>W. Brereton.</hi>
+               </p>
+               <p n="77">77 D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ver attempted to be betraid, but by Gods mercy prevented.</p>
+            </div>
+            <div n="1645" type="year">
+               <head>Anno 1645.</head>
+               <p n="78">78 Abbington aſſayed to be betraid by <hi>Digby,</hi> who <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ff<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red Major Generall <hi>Brown</hi> 10000 l. but he ſcorned his trecherous pro<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er, and <hi>Digby</hi> was repulſed with great diſgrace.</p>
+               <p n="79">79 Alesbury ſhould likewiſe have been betrayed, but by Gods mercy prevented.</p>
+               <p n="80">80 Reading indeavoured to be betraid, but prevented by the mercy of God.</p>
+               <p n="81">81 Plymouth in danger to be betraid into the hands of mercileſſe enemies, but by the faithfull Governour prevented.</p>
+               <p n="82">82 Lime was in great danger to be be<g ref="char:EOLhyphen"/>traid, but the faithfull Governour Captain <hi>Lemon</hi> diſc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>red the deſigne, who was profered 1000. l. to yeeld it to the Kings ſervice, which town the King valued as his Crowne.</p>
+               <p n="83">83 Buckinghamſhire Malignants dan<g ref="char:EOLhyphen"/>gerous petition preſented to the Commiſ<g ref="char:EOLhyphen"/>ſioners at Vxbridge, on purpoſe to diſſolve the Treaty.</p>
+               <p n="84">84 A curſed deſigne to draw the hearts of the people from the Parliament, per<g ref="char:EOLhyphen"/>ſwading them that the Parliament ſought to inſlave them, whereupon the Parliament put forth a Declaration to the contrary, which did not a little content them.</p>
+               <p n="85">85 The Kings deſigne for Yorke pre<g ref="char:EOLhyphen"/>vented by Major-Generall <hi>Poyntz,</hi> the King near Doncaſter makes Proclamation for all to come in unto him, but they know<g ref="char:EOLhyphen"/>ing his ſervice, would not obey his com<g ref="char:EOLhyphen"/>mand.</p>
+               <p n="86">86 The peace with the Iriſh Rebels.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>Publiſhed according to Order.</p>
+         </div>
+         <div type="colophon">
+            <p>
+               <add>Septemb: 21<hi rend="sup">th</hi>
+               </add> Printed for <hi>S. W.</hi> and <hi>I. P.</hi> and are to be ſold at their ſh<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ps in great Woodſtreet, and in the great Old-Baily, neere the Seſſions-Houſe. 1646.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
